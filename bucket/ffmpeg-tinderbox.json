@@ -1,13 +1,13 @@
 {
-    "version": "111025",
+    "version": "111033",
     "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
     "homepage": "https://ffmpeg.org",
-    "license": "GPL-3.0-or-later",
+    "license": "Nonfree",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nanake/ffmpeg-tinderbox/releases/download/build-2023-06-07-21-24-n111033/ffmpeg-N-111033-git-f11515c77-win64-nonfree-shared.7z",
+            "url": "https://github.com/nanake/ffmpeg-tinderbox/releases/download/build-2023-06-07-21-24-n111033/ffmpeg-N-111033-git-f11515c77-win64-nonfree.7z",
             "hash": "E41998CBEABACC30FC67C7F5104375A701F9B93382C718614C0E4E34D919525A",
-            "extract_dir": "ffmpeg-N-111025-g65a1e8ee2c-win64-nonfree"
+            "extract_dir": "ffmpeg-N-111033-git-f11515c77-win64-nonfree"
         }
     },
     "bin": [
