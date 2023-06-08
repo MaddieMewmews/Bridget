@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/nanake/ffmpeg-tinderbox/releases/download/build-2023-06-07-21-24-n111033/ffmpeg-N-111033-git-f11515c77-win64-nonfree-shared.7z",
             "hash": "72101431B64D5BF5632AEFF4B26244BB116A61CF90827D9514B6E540B99C40CE",
-            "extract_dir": "ffmpeg-N-111025-git-65a1e8ee2c-win64-nonfree-shared"
+            "extract_dir": "ffmpeg-N-111025-git-f11515c77-win64-nonfree-shared"
         }
     },
     "bin": [
